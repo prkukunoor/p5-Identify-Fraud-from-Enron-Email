@@ -1,0 +1,30 @@
+Mainly I used forums and google for the help 
+
+Used some of the functions from previous lessons 
+
+
+The following links are helped me to make the final output
+
+https://discussions.udacity.com/t/machine-learning-final-project-precison-recall-0/38813
+
+https://discussions.udacity.com/t/getting-started-with-final-project/170846/9
+
+https://discussions.udacity.com/t/final-project-code/199246
+
+https://discussions.udacity.com/t/recall-and-precision/177525/5
+
+https://discussions.udacity.com/t/final-project-feature-selection/4621
+
+https://discussions.udacity.com/t/feature-scaling-on-final-project/172315
+
+https://discussions.udacity.com/t/any-suggestion-on-speeding-up-the-final-project-taking-hours-to-run-tester-py/159563/2
+
+https://discussions.udacity.com/t/mistake-in-the-way-email-poi-features-are-engineered-in-the-course/4841/2
+
+https://discussions.udacity.com/t/starting-the-final-project/179090/4
+
+https://discussions.udacity.com/t/machine-learning-pkl/175236/3
+
+Some external github repositories aswell lost the links for them 
+
+
